@@ -1,7 +1,7 @@
-# Tower Defense (C++ / SDL2)
+# Rhythm Tower Defense (C++ / SDL2)
 
-C++17 と SDL2 だけで実装した2Dタワーディフェンスゲームです。
-ゲームエンジンを使わず、ゲームループ・当たり判定・経路移動・描画をすべて自前で実装しています。
+音楽とタワーディフェンスを融合させたゲームです。
+👉 **[こちらからプレイできます](https://manatouetake.github.io/rhythm-tower-defense/)**
 
 ## ゲーム内容
 
